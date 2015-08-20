@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: buscapecas
+        psr4_prefix: buscapecas
+        src_path: app
